@@ -1,0 +1,12 @@
+What is working?
+Front end
+1. home page button 
+2. categories button
+3. registration
+4. search
+5. click imag or link to go to particular post
+6. post comment for approval
+7. no blank comment
+8. showing categories on sidebar
+9. show published post
+
